@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "testem": "^3.15.0"
+  }
+}
